@@ -5,6 +5,7 @@ main ()
   char S,M,T,W,R,F;
   int year;
   /*user input*/
+  printf("Enter something:\n");
   scanf("%c %d",&calander,&year);
   
   /*processing*/
